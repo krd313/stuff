@@ -2,8 +2,8 @@
 @section('content')
 
 		<!--start page wrapper -->
-		<div class="page-wrapper">
-			<div class="page-content">
+		{{-- <div class="page-wrapper">
+			<div class="page-content"> --}}
 				<!--breadcrumb-->
 				<div class="page-breadcrumb d-none d-sm-flex align-items-center mb-3">
 					<div class="breadcrumb-title pe-3">Tables</div>
@@ -156,8 +156,8 @@
 						</div>
 					</div>
 				</div>
-			</div>
-		</div>
+			{{-- </div>
+		</div> --}}
 		<!--end page wrapper -->
 
 
